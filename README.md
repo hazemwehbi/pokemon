@@ -2,7 +2,7 @@
 
 "A new Pokémon tournament is coming soon and you must create a strong team to try to excel at the competition!"
 
-The webpage uses the Pokémon API at https://pokeapi.co/api/v2/Pokémon/.
+The webpage uses the Pokémon API at https://pokeapi.co/api/v2/pokemon/.
 
 At the Homepage we can find two buttons:
 Create Pokémon Team and Pokémon Team Listing which redirect to /team/create and /team/list respectively.
