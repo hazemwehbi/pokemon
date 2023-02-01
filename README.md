@@ -1,4 +1,4 @@
-    DEVELOPER Exercise 1.2 for S'NCE, Developed by Max Wehbi
+    DEVELOPER Exercise 1.2 for S'nce Group Sagl, Developed by Max Wehbi
 
 "A new Pokémon tournament is coming soon and you must create a strong team to try to excel at the competition!"
 
